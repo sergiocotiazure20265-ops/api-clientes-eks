@@ -1,0 +1,20 @@
+{
+  "name": "api-clientes-eks",
+  "version": "1.0.0",
+  "description": "API NodeJS para gerenciamento de clientes e implantação no EKS Amazon",
+  "homepage": "https://github.com/sergiocotiazure20265-ops/api-clientes-eks#readme",
+  "bugs": {
+    "url": "https://github.com/sergiocotiazure20265-ops/api-clientes-eks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiocotiazure20265-ops/api-clientes-eks.git"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
